@@ -20,16 +20,10 @@ This is an example of how to list things you need to use the software and how to
    go build wiki.go
    ```
 3. Run the project.
-```sh
-./wiki
-```
+    ```sh
+    ./wiki
+    ```
 3. Visit below URL to start editing a new page in the wiki.
-```sh
-http://localhost:8080/view/ANewPage
-```
-
-###run in terminal: 
-`go build wiki.go`
-`./wiki`
-
-this will direct you to a new page to edit in the wiki.
+    ```sh
+    http://localhost:8080/view/ANewPage
+    ```
